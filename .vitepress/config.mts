@@ -3,6 +3,7 @@ import nav from './nav.mts'
 import sidebar from './sidebar.mts'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/vitepress-blog/',
   head: [['link', { rel: 'icon', href: '/ai_logo.jpg'}]],
   title: "贰拾壹小生",
   description: "关注技术，让知识在海洋里畅游",
