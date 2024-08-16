@@ -4,6 +4,14 @@ export default [
 	  text: '前端笔记', 
 	  items: [
 		{
+		  text: 'JavaScript',
+		  link: '/前端笔记/JavaScript/第一章：课程介绍'
+		},
+		{
+			text: 'TypeScript',
+			link: '/前端笔记/TypeScript/第一章:认识TypeScript'
+		  },
+		{
 		  text: 'VitePress',
 		  link: '/前端笔记/VitePress/第一章：课程介绍'
 		},
@@ -17,6 +25,20 @@ export default [
 		}
 	  ],
 	  activeMatch: '/前端笔记'
+	},
+	{
+      text: 'CSS笔记',
+	  items: [
+		{
+			text: 'CSS基础',
+			link: '/CSS笔记/CSS基础/第一章：课程介绍'
+		},
+		{
+			text: 'Flex布局',
+			link: '/CSS笔记/Flex布局/第一章：课程介绍'
+		},
+
+	  ]
 	},
 	{ text: 'GIT系列', link: '/生活分享/index' },
 	{ text: '生活分享', link: '/生活分享/index' },
