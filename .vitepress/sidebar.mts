@@ -52,7 +52,7 @@ export default {
 			text: 'JavaScript高级基础课程',
 			collapsed: true,
 			items: [
-				{ text: '第一章：课程介绍', link: '/前端笔记/JavaScript/第一章：课程介绍' },
+				{ text: '第一章: Map && Set', link: '/前端笔记/JavaScript/第一章: Map && Set.md' },
 				{ text: '第二章：浏览器渲染原理', link: '/前端笔记/JavaScript/第二章：浏览器渲染原理' },
 				{ text: '第三章：导航设置', link: '/前端笔记/JavaScript/第三章：导航设置' },
 				{ text: '第四章：侧边设置', link: '/前端笔记/JavaScript/第四章：侧边设置' },
