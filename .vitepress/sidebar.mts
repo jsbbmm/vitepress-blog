@@ -131,6 +131,21 @@ export default {
 			]
 		}
 	],
+	'/NGINX笔记': [
+		{
+			text: 'NGXIN基础知识',
+			items: [
+			  { text: '1,NGINX-简介', link: '/NGINX笔记/1,NGINX-简介' },
+			  { text: '2,NGINX-安装', link: '/NGINX笔记/2,NGINX-安装' }
+			]
+		},
+		{
+			text: 'NGXIN进阶知识',
+			items: [
+			  { text: 'nginxWebUI', link: '/NGINX笔记/nginxWebUI' },
+			]
+		}
+	],
 	'/生活分享':[
 		{
 			text: '学习故事',
@@ -138,8 +153,8 @@ export default {
 			  { text: '生活分享-故事1', link: '/生活分享/生活分享-故事1' },
 			  { text: '生活分享-故事2', link: '/生活分享/生活分享-故事2' }
 			]
-		  },
-		  {
+		},
+		{
 			text: '情感故事',
 			items: [
 			  { text: '生活分享-故事3', link: '/生活分享/生活分享-故事3' },

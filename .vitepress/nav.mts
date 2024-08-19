@@ -40,6 +40,7 @@ export default [
 
 	  ]
 	},
+	{ text: 'NGINX', link: '/NGINX笔记/index' },
 	{ text: 'GIT系列', link: '/生活分享/index' },
 	{ text: '生活分享', link: '/生活分享/index' },
 	{ text: '读书笔记', link: '/读书笔记/index' },
