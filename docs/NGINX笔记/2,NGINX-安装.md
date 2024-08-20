@@ -25,7 +25,7 @@ mkdir /var/temp/nginx -p
 ```
 ### 5, 配置
 ```js
-./configure 
+./configure --prefix=/usr/local/nginx --with-http_stub_status_module --with-http_ssl_module
 ```
 ### 6, 编译
 ```js
