@@ -146,6 +146,34 @@ export default {
 			]
 		}
 	],
+	'/Docker笔记': [
+		{
+			text: 'Docker基础知识',
+			items: [
+			  { text: '第一章: Docker介绍', link: '/Docker笔记/第一章: Docker介绍' },
+			  { text: '第二章: Docker命令', link: '/Docker笔记/第二章: Docker命令' },
+			  { text: '第三章: Docker介绍', link: '/Docker笔记/2,NGINX-安装' },
+			  { text: '第四章: Docker介绍', link: '/Docker笔记/2,NGINX-安装' },
+			  { text: '第五章: Docker介绍', link: '/Docker笔记/2,NGINX-安装' },
+			  { text: '第六章: Docker介绍', link: '/Docker笔记/2,NGINX-安装' },
+			  { text: '第七章: Docker介绍', link: '/Docker笔记/2,NGINX-安装' }
+			]
+		}
+	],
+	'/MySQL笔记': [
+		{
+			text: 'MySQL基础知识',
+			items: [
+			  { text: '第一章: MySQL介绍', link: '/MySQL笔记/第一章: MySQL介绍' },
+			  { text: '第二章: Docker命令', link: '/MySQL笔记/第二章: Docker命令' },
+			  { text: '第三章: Docker介绍', link: '/MySQL笔记/2,NGINX-安装' },
+			  { text: '第四章: Docker介绍', link: '/MySQL笔记/2,NGINX-安装' },
+			  { text: '第五章: Docker介绍', link: '/MySQL笔记/2,NGINX-安装' },
+			  { text: '第六章: Docker介绍', link: '/MySQL笔记/2,NGINX-安装' },
+			  { text: '第七章: Docker介绍', link: '/MySQL笔记/2,NGINX-安装' }
+			]
+		}
+	],
 	'/生活分享':[
 		{
 			text: '学习故事',

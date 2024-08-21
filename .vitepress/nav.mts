@@ -37,11 +37,39 @@ export default [
 			text: 'Flex布局',
 			link: '/CSS笔记/Flex布局/第一章：课程介绍'
 		},
-
 	  ]
 	},
-	{ text: 'NGINX', link: '/NGINX笔记/index' },
-	{ text: 'GIT系列', link: '/生活分享/index' },
+	{
+		text: '数据库',
+		items: [
+		  {
+			  text: 'MySQL',
+			  link: '/MySQL笔记/index'
+		  },
+		]
+	},
+	{
+		text: '服务器',
+		items: [
+		  {
+			  text: 'Docker',
+			  link: '/Docker笔记/index'
+		  },
+		  { 
+			text: 'NGINX', 
+			link: '/NGINX笔记/index' 
+		  },
+		  { 
+			text: 'Linux', 
+			link: '/生活分享/index' 
+		  },
+	      { 
+			text: 'GIT', 
+			link: '/生活分享/index' 
+		  },
+  
+		]
+	},
 	{ text: '生活分享', link: '/生活分享/index' },
 	{ text: '读书笔记', link: '/读书笔记/index' },
 	{ text: '算法笔记', link: '/算法笔记/index' },
