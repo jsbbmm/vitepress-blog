@@ -70,7 +70,7 @@ export default {
 			text: 'TypeScript初级基础课程',
 			items: [
 				{ text: '第一章: 认识TypeScript', link: '/前端笔记/TypeScript/第一章:认识TypeScript' },
-				{ text: '第二章：项目初始', link: '/前端笔记/TypeScript/第二章：项目初始' },
+				{ text: '第二章：基本数据类型', link: '/前端笔记/TypeScript/第二章：基本数据类型' },
 				{ text: '第三章：导航设置', link: '/前端笔记/TypeScript/第三章：导航设置' },
 				{ text: '第四章：侧边设置', link: '/前端笔记/TypeScript/第四章：侧边设置' },
 				{ text: '第二章：项目初始', link: '/前端笔记/TypeScript/第二章：项目初始' },

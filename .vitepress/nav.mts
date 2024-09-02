@@ -33,6 +33,10 @@ export default [
 		  link: '/前端笔记/JavaScript/第一章：课程介绍'
 		},
 		{
+			text: 'ES6+',
+			link: '/前端笔记/JavaScript/第一章：课程介绍'
+		  },
+		{
 			text: 'TypeScript',
 			link: '/前端笔记/TypeScript/第一章:认识TypeScript'
 		},
