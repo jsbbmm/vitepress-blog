@@ -65,6 +65,39 @@ export default {
 			]
 		}
 	],
+	'/前端笔记/React学习笔记': [
+		{
+			text: 'React初级基础课程',
+			items: [
+				{ text: '第一章:课程介绍', link: '/前端笔记/React学习笔记/第一章:课程介绍' },
+				{ text: '第二章:基础知识', link: '/前端笔记/React学习笔记/第二章:基础知识' },
+				{ text: '第三章:Hook函数', link: '/前端笔记/React学习笔记/第三章:Hook函数' },
+				{ text: '第四章:事件系统', link: '/前端笔记/React学习笔记/第四章:事件系统' },
+				{ text: '第二章：项目初始', link: '/前端笔记/React学习笔记/第二章：项目初始' },
+				{ text: '第三章：导航设置', link: '/前端笔记/React学习笔记/第三章：导航设置' },
+				{ text: '第四章：侧边设置', link: '/前端笔记/React学习笔记/第四章：侧边设置' },
+				{ text: '第二章：项目初始', link: '/前端笔记/React学习笔记/第二章：项目初始' },
+				{ text: '第三章：导航设置', link: '/前端笔记/React学习笔记/第三章：导航设置' },
+				{ text: '第四章：侧边设置', link: '/前端笔记/React学习笔记/第四章：侧边设置' },
+			]
+		},
+		{
+			text: 'React高级基础课程',
+			collapsed: true,
+			items: [
+				{ text: '第一章：课程介绍', link: '/前端笔记/JavaScript/第一章：课程介绍' },
+				{ text: '第二章：浏览器渲染原理', link: '/前端笔记/JavaScript/第二章：浏览器渲染原理' },
+				{ text: '第三章：导航设置', link: '/前端笔记/JavaScript/第三章：导航设置' },
+				{ text: '第四章：侧边设置', link: '/前端笔记/JavaScript/第四章：侧边设置' },
+				{ text: '第二章：项目初始', link: '/前端笔记/JavaScript/第二章：项目初始' },
+				{ text: '第三章：导航设置', link: '/前端笔记/JavaScript/第三章：导航设置' },
+				{ text: '第四章：侧边设置', link: '/前端笔记/JavaScript/第四章：侧边设置' },
+				{ text: '第二章：项目初始', link: '/前端笔记/JavaScript/第二章：项目初始' },
+				{ text: '第三章：导航设置', link: '/前端笔记/JavaScript/第三章：导航设置' },
+				{ text: '第四章：侧边设置', link: '/前端笔记/JavaScript/第四章：侧边设置' },
+			]
+		}
+	],
 	'/前端笔记/TypeScript': [
 		{
 			text: 'TypeScript初级基础课程',
@@ -171,6 +204,20 @@ export default {
 			  { text: '第五章: Docker介绍', link: '/MySQL笔记/2,NGINX-安装' },
 			  { text: '第六章: Docker介绍', link: '/MySQL笔记/2,NGINX-安装' },
 			  { text: '第七章: Docker介绍', link: '/MySQL笔记/2,NGINX-安装' }
+			]
+		}
+	],
+	'/算法笔记': [
+		{
+			text: '算法基础知识',
+			items: [
+			  { text: '第一章: 算法介绍', link: '/算法笔记/第一章: 算法介绍' },
+			  { text: '第二章: 算法1', link: '/算法笔记/第二章: Docker命令' },
+			  { text: '第三章: 算法2', link: '/算法笔记/2,NGINX-安装' },
+			  { text: '第四章: 算法', link: '/算法笔记/2,NGINX-安装' },
+			  { text: '第五章: 算法', link: '/算法笔记/2,NGINX-安装' },
+			  { text: '第六章: 算法', link: '/算法笔记/2,NGINX-安装' },
+			  { text: '第七章: 算法', link: '/算法笔记/2,NGINX-安装' }
 			]
 		}
 	],

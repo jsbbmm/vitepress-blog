@@ -46,7 +46,7 @@ export default [
 		},
 		{
 		  text: 'React学习笔记',
-		  link: '/前端笔记/React学习笔记/第一章：课程介绍'
+		  link: '/前端笔记/React学习笔记/第一章:课程介绍'
 		},
 		{
 			text: 'VitePress',
