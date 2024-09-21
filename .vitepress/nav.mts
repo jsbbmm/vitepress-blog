@@ -113,8 +113,8 @@ export default [
 		    link: '/Python学习/index'
 		  },
 		  {
-            text: 'AI编程',
-		    link: '/Python学习/index'
+            text: 'AI大模型',
+		    link: '/AI大模型/index'
 		  },
 		  { 
 			text: '生活感悟', 

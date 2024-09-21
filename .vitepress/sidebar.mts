@@ -235,5 +235,19 @@ export default {
 			  { text: '生活分享-故事3', link: '/生活分享/生活分享-故事3' },
 			]
 		}
-	]
+	],
+	'/AI大模型': [
+		{
+			text: 'AI大模型基础',
+			items: [
+			  { text: '第一章: AI介绍', link: '/AI大模型/第一章: AI介绍' },
+			  { text: '第二章: 算法1', link: '/算法笔记/第二章: Docker命令' },
+			  { text: '第三章: 算法2', link: '/算法笔记/2,NGINX-安装' },
+			  { text: '第四章: 算法', link: '/算法笔记/2,NGINX-安装' },
+			  { text: '第五章: 算法', link: '/算法笔记/2,NGINX-安装' },
+			  { text: '第六章: 算法', link: '/算法笔记/2,NGINX-安装' },
+			  { text: '第七章: 算法', link: '/算法笔记/2,NGINX-安装' }
+			]
+		}
+	],
 }
