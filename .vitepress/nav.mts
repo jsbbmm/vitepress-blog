@@ -57,6 +57,10 @@ export default [
 			link: '/前端笔记/VitePress/第一章：课程介绍'
 		},
 		{
+			text: 'Vite',
+			link: '/前端笔记/Vite/第一章:课程介绍'
+		},
+		{
 			text: 'RollUp',
 			link: '/前端笔记/VitePress/第一章：课程介绍'
 		},
@@ -96,7 +100,7 @@ export default [
 		items: [
 		  {
             text: '微信小程序',
-		    link: '/Python学习/index'
+		    link: '/微信小程序/index'
 		  },
 		  {
             text: 'uni-app',

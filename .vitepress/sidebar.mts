@@ -32,6 +32,24 @@ export default {
 		]
 	}
     ],
+	'/前端笔记/Vite': [
+		{
+			text: 'Vite知识讲解',
+			collapsed: false,
+			items: [
+				{ text: '第一章:课程介绍', link: '/前端笔记/Vite/第一章:课程介绍' },
+				{ text: '第二章:课程介绍2', link: '/前端笔记/Vite/第二章:课程介绍2' },
+				{ text: '第三章：导航设置', link: '/前端笔记/Vite/第三章：导航设置' },
+				{ text: '第四章：侧边设置', link: '/前端笔记/Vite/第四章：侧边设置' },
+				{ text: '第二章：项目初始', link: '/前端笔记/Vite/第二章：项目初始' },
+				{ text: '第三章：导航设置', link: '/前端笔记/Vite/第三章：导航设置' },
+				{ text: '第四章：侧边设置', link: '/前端笔记/Vite/第四章：侧边设置' },
+				{ text: '第二章：项目初始', link: '/前端笔记/Vite/第二章：项目初始' },
+				{ text: '第三章：导航设置', link: '/前端笔记/Vite/第三章：导航设置' },
+				{ text: '第四章：侧边设置', link: '/前端笔记/Vite/第四章：侧边设置' },
+			]
+		}
+	],
     '/前端笔记/JavaScript': [
 		{
 			text: 'JavaScript初级基础课程',
@@ -233,6 +251,20 @@ export default {
 			text: '情感故事',
 			items: [
 			  { text: '生活分享-故事3', link: '/生活分享/生活分享-故事3' },
+			]
+		}
+	],
+	'/微信小程序': [
+		{
+			text: '微信小程序知识',
+			items: [
+			  { text: '第一章: 小程序', link: '/算法笔记/第一章: 算法介绍' },
+			  { text: '第二章: 算法1', link: '/算法笔记/第二章: Docker命令' },
+			  { text: '第三章: 算法2', link: '/算法笔记/2,NGINX-安装' },
+			  { text: '第四章: 算法', link: '/算法笔记/2,NGINX-安装' },
+			  { text: '第五章: 算法', link: '/算法笔记/2,NGINX-安装' },
+			  { text: '第六章: 算法', link: '/算法笔记/2,NGINX-安装' },
+			  { text: '第七章: 算法', link: '/算法笔记/2,NGINX-安装' }
 			]
 		}
 	],
