@@ -41,7 +41,7 @@ export default [
 			link: '/前端笔记/TypeScript/第一章:认识TypeScript'
 		},
 		{
-		  text: 'Vue学习笔记',
+		  text: 'Vue3学习笔记',
 		  link: '/前端笔记/Vue学习笔记/第一章：课程介绍'
 		},
 		{
