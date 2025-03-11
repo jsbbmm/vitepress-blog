@@ -181,136 +181,61 @@ export default {
 			]
 		}
 	],
-	'/CSS笔记/CSS基础': [
+	'/前端笔记/CSS相关/CSS基础': [
 		{
 			text: 'JavaScript初级基础课程',
 			items: [
-				{ text: '第一章：课程介绍', link: '/前端笔记/JavaScript/第一章：课程介绍' },
-				{ text: '第二章：项目初始', link: '/前端笔记/JavaScript/第二章：项目初始' },
-				{ text: '第三章：导航设置', link: '/前端笔记/JavaScript/第三章：导航设置' },
-				{ text: '第四章：侧边设置', link: '/前端笔记/JavaScript/第四章：侧边设置' },
-				{ text: '第二章：项目初始', link: '/前端笔记/JavaScript/第二章：项目初始' },
-				{ text: '第三章：导航设置', link: '/前端笔记/JavaScript/第三章：导航设置' },
-				{ text: '第四章：侧边设置', link: '/前端笔记/JavaScript/第四章：侧边设置' },
-				{ text: '第二章：项目初始', link: '/前端笔记/JavaScript/第二章：项目初始' },
-				{ text: '第三章：导航设置', link: '/前端笔记/JavaScript/第三章：导航设置' },
-				{ text: '第四章：侧边设置', link: '/前端笔记/JavaScript/第四章：侧边设置' },
+				{ text: '第一章：课程介绍', link: '/前端笔记/CSS相关/CSS基础/index' },
 			]
 		},
 		{
 			text: 'JavaScript高级基础课程',
 			collapsed: true,
-			items: [
-				{ text: '第一章：课程介绍', link: '/前端笔记/JavaScript/第一章：课程介绍' },
-				{ text: '第二章：浏览器渲染原理', link: '/前端笔记/JavaScript/第二章：浏览器渲染原理' },
-				{ text: '第三章：导航设置', link: '/前端笔记/JavaScript/第三章：导航设置' },
-				{ text: '第四章：侧边设置', link: '/前端笔记/JavaScript/第四章：侧边设置' },
-				{ text: '第二章：项目初始', link: '/前端笔记/JavaScript/第二章：项目初始' },
-				{ text: '第三章：导航设置', link: '/前端笔记/JavaScript/第三章：导航设置' },
-				{ text: '第四章：侧边设置', link: '/前端笔记/JavaScript/第四章：侧边设置' },
-				{ text: '第二章：项目初始', link: '/前端笔记/JavaScript/第二章：项目初始' },
-				{ text: '第三章：导航设置', link: '/前端笔记/JavaScript/第三章：导航设置' },
-				{ text: '第四章：侧边设置', link: '/前端笔记/JavaScript/第四章：侧边设置' },
+			items: [				
+				{ text: '第一章：课程介绍', link: '/前端笔记/CSS相关/CSS基础/index' },
 			]
 		}
 	],
-	'/NGINX笔记': [
+	'/运维笔记/NGINX笔记': [
 		{
 			text: 'NGXIN基础知识',
 			items: [
-			  { text: '1,NGINX-简介', link: '/NGINX笔记/1,NGINX-简介' },
-			  { text: '2,NGINX-安装', link: '/NGINX笔记/2,NGINX-安装' }
+			  { text: '1,NGINX-简介', link: '/运维笔记/NGINX笔记/1,NGINX-简介' },
+			  { text: '2,NGINX-安装', link: '/运维笔记/NGINX笔记/2,NGINX-安装' }
 			]
 		},
 		{
 			text: 'NGXIN进阶知识',
 			items: [
-			  { text: 'nginxWebUI', link: '/NGINX笔记/nginxWebUI' },
+			  { text: 'nginxWebUI', link: '/运维笔记/NGINX笔记/nginxWebUI' },
 			]
 		}
 	],
-	'/Docker笔记': [
+	'/运维笔记/Docker笔记': [
 		{
 			text: 'Docker基础知识',
 			items: [
-			  { text: '第一章: Docker介绍', link: '/Docker笔记/第一章: Docker介绍' },
-			  { text: '第二章: Docker命令', link: '/Docker笔记/第二章: Docker命令' },
-			  { text: '第三章: Docker介绍', link: '/Docker笔记/2,NGINX-安装' },
-			  { text: '第四章: Docker介绍', link: '/Docker笔记/2,NGINX-安装' },
-			  { text: '第五章: Docker介绍', link: '/Docker笔记/2,NGINX-安装' },
-			  { text: '第六章: Docker介绍', link: '/Docker笔记/2,NGINX-安装' },
-			  { text: '第七章: Docker介绍', link: '/Docker笔记/2,NGINX-安装' }
+			  { text: '第一章: Docker介绍', link: '/运维笔记/Docker笔记/第一章: Docker介绍' },
+			  { text: '第二章: Docker命令', link: '/运维笔记/Docker笔记/第二章: Docker命令' },
+			  { text: '第三章: Docker介绍', link: '/运维笔记/Docker笔记/2,NGINX-安装' },
+			  { text: '第四章: Docker介绍', link: '/运维笔记/Docker笔记/2,NGINX-安装' },
 			]
 		}
 	],
-	'/MySQL笔记': [
+	'/数据库/MySQL笔记': [
 		{
 			text: 'MySQL基础知识',
 			items: [
-			  { text: '第一章: MySQL介绍', link: '/MySQL笔记/第一章: MySQL介绍' },
-			  { text: '第二章: Docker命令', link: '/MySQL笔记/第二章: Docker命令' },
-			  { text: '第三章: Docker介绍', link: '/MySQL笔记/2,NGINX-安装' },
-			  { text: '第四章: Docker介绍', link: '/MySQL笔记/2,NGINX-安装' },
-			  { text: '第五章: Docker介绍', link: '/MySQL笔记/2,NGINX-安装' },
-			  { text: '第六章: Docker介绍', link: '/MySQL笔记/2,NGINX-安装' },
-			  { text: '第七章: Docker介绍', link: '/MySQL笔记/2,NGINX-安装' }
+			  { text: '第一章: MySQL介绍', link: '/数据库/MySQL笔记/第一章: MySQL介绍' },
+			  { text: '第二章: Docker命令', link: '/数据库/MySQL笔记/第二章: Docker命令' },
 			]
 		}
 	],
-	'/算法笔记': [
+	'/AI算法/算法笔记': [
 		{
 			text: '算法基础知识',
 			items: [
-			  { text: '第一章: 算法介绍', link: '/算法笔记/第一章: 算法介绍' },
-			  { text: '第二章: 算法1', link: '/算法笔记/第二章: Docker命令' },
-			  { text: '第三章: 算法2', link: '/算法笔记/2,NGINX-安装' },
-			  { text: '第四章: 算法', link: '/算法笔记/2,NGINX-安装' },
-			  { text: '第五章: 算法', link: '/算法笔记/2,NGINX-安装' },
-			  { text: '第六章: 算法', link: '/算法笔记/2,NGINX-安装' },
-			  { text: '第七章: 算法', link: '/算法笔记/2,NGINX-安装' }
-			]
-		}
-	],
-	'/生活分享':[
-		{
-			text: '学习故事',
-			items: [
-			  { text: '生活分享-故事1', link: '/生活分享/生活分享-故事1' },
-			  { text: '生活分享-故事2', link: '/生活分享/生活分享-故事2' }
-			]
-		},
-		{
-			text: '情感故事',
-			items: [
-			  { text: '生活分享-故事3', link: '/生活分享/生活分享-故事3' },
-			]
-		}
-	],
-	'/微信小程序': [
-		{
-			text: '微信小程序知识',
-			items: [
-			  { text: '第一章: 小程序', link: '/算法笔记/第一章: 算法介绍' },
-			  { text: '第二章: 算法1', link: '/算法笔记/第二章: Docker命令' },
-			  { text: '第三章: 算法2', link: '/算法笔记/2,NGINX-安装' },
-			  { text: '第四章: 算法', link: '/算法笔记/2,NGINX-安装' },
-			  { text: '第五章: 算法', link: '/算法笔记/2,NGINX-安装' },
-			  { text: '第六章: 算法', link: '/算法笔记/2,NGINX-安装' },
-			  { text: '第七章: 算法', link: '/算法笔记/2,NGINX-安装' }
-			]
-		}
-	],
-	'/AI大模型': [
-		{
-			text: 'AI大模型基础',
-			items: [
-			  { text: '第一章: AI介绍', link: '/AI大模型/第一章: AI介绍' },
-			  { text: '第二章: 算法1', link: '/算法笔记/第二章: Docker命令' },
-			  { text: '第三章: 算法2', link: '/算法笔记/2,NGINX-安装' },
-			  { text: '第四章: 算法', link: '/算法笔记/2,NGINX-安装' },
-			  { text: '第五章: 算法', link: '/算法笔记/2,NGINX-安装' },
-			  { text: '第六章: 算法', link: '/算法笔记/2,NGINX-安装' },
-			  { text: '第七章: 算法', link: '/算法笔记/2,NGINX-安装' }
+			  { text: '第一章: 算法介绍', link: '/AI算法/算法笔记/第一章: 算法介绍' },
 			]
 		}
 	],
