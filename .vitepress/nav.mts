@@ -12,15 +12,11 @@ export default [
 			  link: '/前端笔记/TypeScript/第一章：课程介绍'
 		  },
 		  {
-			text: '前端笔记',
-			link: '/前端笔记/Flex布局/第一章：课程介绍'
-		  },
-		  {
-			text: '前端笔记',
+			text: 'Vue学习笔记',
 			link: '/前端笔记/Vue学习笔记/第一章：课程介绍'
 		  },
 		  {
-			text: '前端笔记',
+			text: 'React学习笔记',
 			link: '/前端笔记/React学习笔记/第一章：课程介绍'
 		  },
 		]
@@ -60,17 +56,18 @@ export default [
 		  },
 		]
 	},
-	{   text: 'AI算法',
+	{   
+		text: 'AI算法',
 	    items: [
-		{
-            text: '/AI算法/算法笔记/index',
-		    link: '/AI算法/AI大模型/index'
-		}
-	  ]
+			{
+				text: '算法笔记',
+				link: '/AI算法/算法笔记/index'
+			}
+		]
 	},
 	{ 
 		text: '项目实战',
-        item: [
+        items: [
 		  {
             text: '村娘',
 		    link: '/项目实战/村娘/index'
