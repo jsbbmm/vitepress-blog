@@ -55,8 +55,42 @@ sudo systemctl restart docker
 ```js
 # 查看容器
 docker ps
+docker ps -a # 查看所有容器
+
 # 查看镜像
 docker images
 # 查看镜像
 docker image ls
+
+# 拉取镜像
+docker pull nginx
+
+# 删除镜像
+docker rmi nginx
+
+```
+
+### 5，Docker容器
+```js
+# 运行
+docker run
+docker run -d --name myNginx nginx # 后台运行
+docker run -d -p 80:80 --name myNginx nginx # 后台运行，端口映射
+docker run -d -p 80:80 -v /home/nginx/html:/usr/share/nginx/html --name myNginx nginx # 后台运行，端口映射，挂载目录
+# 启动
+docker start
+# 停止
+docker stop
+# 重启
+docker restart
+# 进入容器
+docker exec -it nginx bash
+# 退出容器
+exit
+# 查看容器日志
+docker logs nginx
+# 查看容器日志
+docker logs nginx -f
+# 删除容器
+docker rm nginx
 ```
