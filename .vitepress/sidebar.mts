@@ -239,4 +239,23 @@ export default {
 			]
 		}
 	],
+	'/后端笔记/Java笔记' : [
+	{
+        text: 'Java初级课程',
+		items: [
+			{ text: '第一章：Java基础课程介绍', link: '/后端笔记/Java笔记/第一章：Java基础课程介绍' },
+			{ text: '第二章：Java基础语法基础', link: '/后端笔记/Java笔记/第二章：Java基础语法基础' },
+			{ text: '第三章：Java基础类对象', link: '/后端笔记/Java笔记/第三章：Java基础类对象' },
+		]
+	},
+	{
+        text: 'Java高级课程',
+		collapsed: true,
+		items: [
+			{ text: '第一章：课程介绍', link: '/后端笔记/Java笔记/第一章：课程介绍' },
+			{ text: '第二章：项目初始', link: '/后端笔记/Java笔记/第二章：项目初始' },
+			{ text: '第四章：侧边设置', link: '/后端笔记/Java笔记/第四章：侧边设置' },
+		]
+	}
+    ],
 }
